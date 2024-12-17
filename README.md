@@ -64,5 +64,6 @@ python config.py <выходной xml файл>
 ![image](https://github.com/user-attachments/assets/417d49de-a8c7-45c9-ae3e-ff6ecbd101da) 
 
 
+![image](https://github.com/user-attachments/assets/3c77ff6f-20ff-42e9-aeb0-4d6b56f0de79)
 
 

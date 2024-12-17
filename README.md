@@ -61,4 +61,8 @@ python config.py <выходной xml файл>
 
 # Тесты 
 
+![image](https://github.com/user-attachments/assets/417d49de-a8c7-45c9-ae3e-ff6ecbd101da) 
+
+
+
 
